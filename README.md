@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **BlockChain & NEXT**
+- 🌱 I’m currently learning **SpringBoot & NEXT**
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
